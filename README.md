@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aarshsaxena&label=Profile%20views&color=0e75b6&style=flat" alt="aarshsaxena" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Machine Learning, Django devlopment and Frontend**
 
-- 💬 Ask me about **Python, MySQL, C&C++**
+- 💬 Ask me about **Python, Django, MySQL, HTML&CSS, C&C++**
 
 - 📫 How to reach me **aarshsaxena.2393@gmail.com**
 
