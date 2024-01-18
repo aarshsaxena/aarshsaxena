@@ -19,10 +19,11 @@
 
 [![An image of @aarshsaxena's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aarshsaxena)](https://holopin.io/@aarshsaxena)
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aarshsaxena&label=Profile%20views&color=0e75b6&style=flat" alt="aarshsaxena" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aarshsaxena" alt="aarshsaxena" /></a> </p>
 
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aarshsaxena&show_icons=true&locale=en" alt="aarshsaxena" /></p>
 
+[![aarshsaxena's GitHub | Languages Over Time](https://stats.quine.sh/aarshsaxena/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=aarshsaxena)
