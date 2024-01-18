@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aarsh Saxena</h1>
 <h3 align="center">A Machine Learning Enthusiast from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif">
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif">
 
 - 🌱 I’m currently learning **Machine Learning, Django and DBMS**
 
